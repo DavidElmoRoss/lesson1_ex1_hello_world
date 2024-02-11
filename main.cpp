@@ -1,5 +1,6 @@
 /*
 This program uses printf to send Hello World to the Screen
+The BAUD RATE of the MBED STUDIO SERIAL MONITOR should be 9600
 */
 
 
